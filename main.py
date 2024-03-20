@@ -1,12 +1,4 @@
-#====================================
-
-#WARNING CONTAINS API KEY INSIDE OF THIS CODE. TOO LAZY TO USE .ENV IN VIRTUAL STUDIo
-#MAKE SURE GITHUB REPO IS PRIVATE!!!!!
-
-#===================================
-
-
-
+#Neeko, a voice to text GUI built with Python 
 
 from tkinter import *
 from tkinter import filedialog
@@ -57,7 +49,7 @@ def Help_Page():
 
 def get_weather(city):
     try:
-        weather_api = "c9c11b4d148b67961afe2f22ba965de6"
+        weather_api = secret_weather_key
         weather_url = 'https://api.openweathermap.org/data/2.5/weather'
         params = {'APPID': weather_api, 'q': city, 'units': 'imperial'}
         response = requests.get(weather_url, params=params)

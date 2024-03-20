@@ -1,3 +1,8 @@
-# neeko
-a simple voice to text with various different tools 
-**API KEY INCLUDED IN THE MAIN.PY MAKE SURE TO NEVER MAKE THIS PUBLIC!!
+# Neeko 
+A voice to text application with various different tools 
+
+Features Include: 
+-Convert WAV audio files into text
+-Retrieve weather data with voice commands
+-Save text into a notes style based interface
+-To Do List controlled with Voice Commands (In Progress)
