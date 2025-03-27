@@ -6,3 +6,6 @@ Features Include:
 -Retrieve weather data with voice commands  
 -Save text into a notes style based interface  
 -To Do List controlled with Voice Commands (In Progress)  
+
+# Displayed: 
+![Neeko](neeko-in-action)
