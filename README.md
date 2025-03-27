@@ -8,4 +8,4 @@ Features Include:
 -To Do List controlled with Voice Commands (In Progress)  
 
 # Displayed: 
-![Neeko](neeko-in-action)
+![Neeko](neeko-in-action.png)
